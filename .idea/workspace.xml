@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1f0a931-db5f-4490-9849-7c0b46835739" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Extraclase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tt/Api.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tt/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tt/Estudiantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tt/EstudiantesA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tt/EstudiantesB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tt/main-view.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="b1f0a931-db5f-4490-9849-7c0b46835739" name="Changes" comment="Javafx y Scenebuilder, añado liberías al controller" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +60,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662091526456</updated>
     </task>
+    <task id="LOCAL-00001" summary="Javafx y Scenebuilder, añado liberías al controller">
+      <created>1662147121416</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662147121416</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +80,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Javafx y Scenebuilder, añado liberías al controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="Javafx y Scenebuilder, añado liberías al controller" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
