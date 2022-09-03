@@ -2,7 +2,7 @@ package tt;
 
 public class EstudiantesB extends Estudiantes {
 
-    public EstudiantesB(String carne, String nombre, String correo, int telefono, String nickname, String studenttype, int pexam, int pquiz, int phw, int proyecto1, int proyecto2, int proyecto3, String promedioA, String promedioB, Integer notafinal) {
+    public EstudiantesB(String carne, String nombre, String correo, String telefono, String nickname, String studenttype, int pexam, int pquiz, int phw, int proyecto1, int proyecto2, int proyecto3, String promedioA, String promedioB, Integer notafinal) {
         super(carne, nombre, correo, telefono, nickname, studenttype, pexam, pquiz, phw, proyecto1, proyecto2, proyecto3, promedioA, promedioB, notafinal);
     }
 

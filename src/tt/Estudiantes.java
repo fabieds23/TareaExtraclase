@@ -5,7 +5,7 @@ public abstract class Estudiantes {
      String carne;
      String nombre;
      String correo;
-     int telefono;
+     String telefono;
      String nickname;
      String studenttype;
      int pexam;
@@ -16,9 +16,7 @@ public abstract class Estudiantes {
      int proyecto3;
 
      String promedioA;
-
      String promedioB;
-
      Integer notafinal;
 
      public String getCarne() {
@@ -45,11 +43,11 @@ public abstract class Estudiantes {
           this.correo = correo;
      }
 
-     public int getTelefono() {
+     public String getTelefono() {
           return telefono;
      }
 
-     public void setTelefono(int telefono) {
+     public void setTelefono(String telefono) {
           this.telefono = telefono;
      }
 
@@ -141,7 +139,7 @@ public abstract class Estudiantes {
           this.notafinal = notafinal;
      }
 
-     public Estudiantes(String carne, String nombre, String correo, int telefono, String nickname, String studenttype, int pexam, int pquiz, int phw, int proyecto1, int proyecto2, int proyecto3, String promedioA, String promedioB, Integer notafinal) {
+     public Estudiantes(String carne, String nombre, String correo, String telefono, String nickname, String studenttype, int pexam, int pquiz, int phw, int proyecto1, int proyecto2, int proyecto3, String promedioA, String promedioB, Integer notafinal) {
           this.carne = carne;
           this.nombre = nombre;
           this.correo = correo;
