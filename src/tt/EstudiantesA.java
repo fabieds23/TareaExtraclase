@@ -16,7 +16,7 @@ public class EstudiantesA extends Estudiantes {
 
     @Override
     public String fin() {
-        int reds2 = getPexam() + getPhw() + getPquiz() + 7777;
+        int reds2 = (getPexam() + getPquiz() + getPhw() + ((getProyecto1() + getProyecto2() + getProyecto3()) / 3)) / 4;
         setNotafinal(reds2);
         return Integer.toString(reds2);
     }

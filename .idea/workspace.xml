@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1f0a931-db5f-4490-9849-7c0b46835739" name="Changes" comment="Javafx y Scenebuilder, añado liberías al controller">
+    <list default="true" id="b1f0a931-db5f-4490-9849-7c0b46835739" name="Changes" comment="Termine implementación de javafx tras largos intentos. Logré descifrar mis problemas.">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tt/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tt/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tt/Estudiantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tt/Estudiantes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tt/EstudiantesA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tt/EstudiantesA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tt/EstudiantesB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tt/EstudiantesB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662148365045</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Termine implementación de javafx tras largos intentos. Logré descifrar mis problemas.">
+      <created>1662176712771</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662176712771</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,7 +109,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Javafx y Scenebuilder, añado liberías al controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="Javafx y Scenebuilder, añado liberías al controller" />
+    <MESSAGE value="Termine implementación de javafx tras largos intentos. Logré descifrar mis problemas." />
+    <option name="LAST_COMMIT_MESSAGE" value="Termine implementación de javafx tras largos intentos. Logré descifrar mis problemas." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
